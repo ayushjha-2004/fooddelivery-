@@ -1,1 +1,1 @@
-# fooddelivery-
+It is a food delivery website using MERN Stack. Technologies that I have used are MongoDB for Database Management System, Express JS for Server-side rendering, React.js for frontend and Node JS as backend. It is a fully functional and responsive website which aims to create a visually appealing and user-friendly interface for customers.
